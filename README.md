@@ -18,3 +18,10 @@ dan mempersulit aktivitas
 3. peningkatan rumah kaca karena pembakaran bahan fosil yang menghasilkan karbon dioksida, 
 penebangan pohon yang menyebabkan karbon yang disimpan pohon dilepas ke atmosfer, sapi yang menghasilkan metana
 4. hemat energi hutan, mengurangi penggunaan kendaraan pribadi
+
+## Inilah ide untuk proyek saya:
+> mengidentifikasikan jumlah pengendara di suatu jalan dan memberitahukan pengguna tentang hal tersebut, (very not inspired by our subject weeks ago), selain itu, 
+menginformasikan pengendara untuk mengambil jalan alternatif.
+> mengidentifikasikan cuaca
+> memberikan tips and ideas untuk mengurangi bad habits
+> semuanya dalam bentuk web
